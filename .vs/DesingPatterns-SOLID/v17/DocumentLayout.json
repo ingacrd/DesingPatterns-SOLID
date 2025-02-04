@@ -1,29 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\",
+  "WorkspaceRootPath": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\users\\carolina.ruiz\\onedrive - future electronics inc\\documents\\learn\\desingpatterns-solid\\desingpatterns-solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\users\\carolina.ruiz\\onedrive - future electronics inc\\documents\\learn\\desingpatterns-solid\\desingpatterns-solid\\src\\oopprinciples\\coupling\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\carolina\\learn\\desingpatterns-solid\\desingpatterns-solid\\src\\designpatterns\\behavioral\\memento\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\designpatterns\\behavioral\\memento\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\carolina\\learn\\desingpatterns-solid\\desingpatterns-solid\\src\\designpatterns\\behavioral\\memento\\editorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\designpatterns\\behavioral\\memento\\editorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\carolina\\learn\\desingpatterns-solid\\desingpatterns-solid\\src\\designpatterns\\behavioral\\memento\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\designpatterns\\behavioral\\memento\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\carolina\\learn\\desingpatterns-solid\\desingpatterns-solid\\src\\solid\\1. srp\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\1. srp\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\1. srp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\1. srp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\1. srp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\1. srp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\5. dip\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\5. dip\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\5. dip\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\5. dip\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\5. dip\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\5. dip\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\4. isp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\4. isp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\4. isp\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\4. isp\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\4. isp\\ishape2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\4. isp\\ishape2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\4. isp\\ishape3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\4. isp\\ishape3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\3. lsp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\3. lsp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\3. lsp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\3. lsp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\3. lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\3. lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\2. ocp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\2. ocp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\2. ocp\\shapetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\2. ocp\\shapetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\2. ocp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\2. ocp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\solid\\2. ocp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\solid\\2. ocp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\oopprinciples\\coupling\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\oopprinciples\\coupling\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\users\\carolina.ruiz\\onedrive - future electronics inc\\documents\\learn\\desingpatterns-solid\\desingpatterns-solid\\src\\oopprinciples\\coupling\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\oopprinciples\\coupling\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\oopprinciples\\coupling\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\users\\carolina.ruiz\\onedrive - future electronics inc\\documents\\learn\\desingpatterns-solid\\desingpatterns-solid\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\users\\carolina.ruiz\\onedrive - future electronics inc\\documents\\learn\\desingpatterns-solid\\desingpatterns-solid\\src\\oopprinciples\\coupling\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\oopprinciples\\coupling\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\oopprinciples\\coupling\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|c:\\users\\carolina.ruiz\\onedrive - future electronics inc\\documents\\learn\\desingpatterns-solid\\desingpatterns-solid\\src\\oopprinciples\\coupling\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|C:\\Carolina\\Learn\\DesingPatterns-SOLID\\desingpatterns-solid\\src\\oopprinciples\\coupling\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA37630C-C5BF-4ACB-B507-DE79CF0B8B47}|DesingPatterns-SOLID\\DesingPatterns-SOLID.csproj|solutionrelative:desingpatterns-solid\\src\\oopprinciples\\coupling\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 332,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,77 +123,316 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SmsSender.cs",
-              "DocumentMoniker": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\SmsSender.cs",
-              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\SmsSender.cs",
-              "ToolTip": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\SmsSender.cs",
-              "RelativeToolTip": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\SmsSender.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAsAAAAAAAAAA==",
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\History.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\History.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\History.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\History.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:59:32.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\App.config",
-              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\App.config",
-              "ToolTip": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\App.config",
-              "RelativeToolTip": "DesingPatterns-SOLID\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-21T15:56:06.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\EmailSender.cs",
-              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\EmailSender.cs",
-              "RelativeToolTip": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\EmailSender.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:54:54.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "INotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\INotificationService.cs",
-              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\INotificationService.cs",
-              "ToolTip": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\INotificationService.cs",
-              "RelativeToolTip": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\INotificationService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:53:01.238Z",
+              "WhenOpened": "2025-02-04T16:40:18.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EditorState.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\EditorState.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\EditorState.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\EditorState.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\EditorState.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:34:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\Editor.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\Editor.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\Editor.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\DesignPatterns\\Behavioral\\Memento\\Editor.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:33:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\IEngine.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\IEngine.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\IEngine.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\IEngine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:30:25.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\Car.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\Car.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\Car.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\Car.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:20:22.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\Engine.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\Engine.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\Engine.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\5. DIP\\Engine.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:19:22.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShape2D.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\IShape2D.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\IShape2D.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\IShape2D.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\IShape2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:47:23.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sphere.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\Sphere.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\Sphere.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\Sphere.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\Sphere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:38:13.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\Circle.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\Circle.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\Circle.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:33:31.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IShape3D.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\IShape3D.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\IShape3D.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\IShape3D.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\4. ISP\\IShape3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:32:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Square.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Square.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Square.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Square.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:23:33.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Rectangle.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Rectangle.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:22:08.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Shape.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Shape.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Shape.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\3. LSP\\Shape.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:21:24.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Rectangle.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Rectangle.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Rectangle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:08:45.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Circle.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Circle.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Circle.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Circle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:06:27.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Shape.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Shape.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Shape.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\Shape.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:56:57.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShapeType.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\ShapeType.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\ShapeType.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\ShapeType.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\2. OCP\\ShapeType.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:56:02.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\EmailSender.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\EmailSender.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\EmailSender.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\EmailSender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:46:06.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\User.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\User.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\User.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:44:07.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\UserService.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\UserService.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\UserService.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\SOLID\\1. SRP\\UserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:42:10.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SmsSender.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\SmsSender.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\SmsSender.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\SmsSender.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\SmsSender.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:59:32.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\App.config",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\App.config",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\App.config",
+              "RelativeToolTip": "DesingPatterns-SOLID\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-21T15:56:06.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\EmailSender.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\EmailSender.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\EmailSender.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\EmailSender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:54:54.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\INotificationService.cs",
+              "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\INotificationService.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\INotificationService.cs",
+              "RelativeToolTip": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\INotificationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:53:01.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\Order.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\Order.cs",
               "RelativeDocumentMoniker": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\Order.cs",
-              "ToolTip": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\Order.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\Order.cs",
               "RelativeToolTip": "DesingPatterns-SOLID\\src\\OopPrinciples\\Coupling\\Order.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:50:38.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T15:50:38.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\Program.cs",
+              "DocumentMoniker": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\Program.cs",
               "RelativeDocumentMoniker": "DesingPatterns-SOLID\\Program.cs",
-              "ToolTip": "C:\\Users\\carolina.ruiz\\OneDrive - Future Electronics Inc\\Documents\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\Program.cs",
+              "ToolTip": "C:\\Carolina\\Learn\\DesingPatterns-SOLID\\DesingPatterns-SOLID\\Program.cs",
               "RelativeToolTip": "DesingPatterns-SOLID\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:49:22.572Z",
               "EditorCaption": ""
